@@ -1,0 +1,4 @@
+com/wilmer/runners/GetGorest.java
+ com.wilmer.runners.GetGorest
+com/wilmer/stepdefinitions/GetGoretsStepDefinitions.java
+ com.wilmer.stepdefinitions.GetGoretsStepDefinitions
