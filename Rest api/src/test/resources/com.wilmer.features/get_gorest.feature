@@ -7,4 +7,4 @@ Feature: Automatizacion de Api Rest
     Given "Juan" establece la base url "https://gorest.co.in/"
     
     When consulta en el endpoint "public/v1/users/" por id "151"
-    Then valida que el estatus code sea 200 y la respuesta contenga el nombre "Aalok Sinha PhD"
+    Then valida que el estatus code sea 200 y la respuesta contenga el nombre "Aatmaj Nayar"
